@@ -54,16 +54,6 @@ Below is the output generated after running the Java-based configuration project
 - `@Bean` is used to define Spring beans
 - No XML configuration is used
 
-Example:
-```java
-@Configuration
-public class AppConfig {
-
-    @Bean
-    public Student student() {
-        return new Student();
-    }
-}
 
 
 ## 👨‍💻 Author
