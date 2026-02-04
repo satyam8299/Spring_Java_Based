@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-25">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-aop-6.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-beans-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-context-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-core-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-expression-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive/Desktop/JAR file/SPRING CONNECT JAR FILE/spring-jcl-6.2.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
